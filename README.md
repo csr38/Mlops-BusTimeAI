@@ -49,7 +49,7 @@ Se ocupo una imagen docker, en especifico: intel-optimized-tensorflow
 ## Previa 
 
 ### Home
-![Home](imagenes/home.png)
+![Home](imagenes/Home.png)
 
 ### Tablas
 ![Tablas](imagenes/tablas.png)
